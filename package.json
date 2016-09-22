@@ -1,0 +1,37 @@
+{
+  "name": "virtualkanelbulle-oven",
+  "version": "1.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feedeo/virtualkanelbulle-oven.git"
+  },
+  "author": "Hugo Freire <hugo@feedeo.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feedeo/virtualkanelbulle-oven/issues"
+  },
+  "homepage": "https://github.com/feedeo/virtualkanelbulle-oven#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "bluebird-retry": "^0.8.0",
+    "cheerio": "^0.22.0",
+    "commander": "^2.9.0",
+    "lodash": "^4.16.1",
+    "request": "^2.75.0"
+  },
+  "scripts": {
+    "start": "node lib/index.js",
+    "test": "node_modules/.bin/eslint ."
+  },
+  "bin": {
+    "virtualkanelbulle-oven": "./bin/virtualkanelbulle-oven.js"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.5.0",
+    "eslint-config-standard": "^6.0.1",
+    "standard": "^8.1.0"
+  }
+}
