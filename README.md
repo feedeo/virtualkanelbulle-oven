@@ -1,4 +1,6 @@
 # :barber: VirtualKanelbulle :coffee: famous oven for making awesome :doughnut: Cinnamon buns and rolls
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/feedeo/virtualkanelbulle-oven.svg)](https://greenkeeper.io/)
 [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 [![Version](https://img.shields.io/npm/v/virtualkanelbulle-oven.svg)](https://www.npmjs.com/package/virtualkanelbulle-oven)
 [![](https://img.shields.io/github/release/feedeo/virtualkanelbulle-oven.svg)](https://github.com/feedeo/virtualkanelbulle-oven/releases)
